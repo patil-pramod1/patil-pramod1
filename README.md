@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Pramod Patil</h1>
 
-<h3 align="center">A passionate Developer </h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -12,12 +12,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 **Software Development Engineer (SDE)** specializing in building full-stack applications using **Java, Spring Boot, and modern frontend frameworks** like **React.js, TypeScript, and Stencil.js**.  
-- 🔭 **Tech Stack:** Java, Spring Boot, Hibernate, Servlets, JSP, MySQL, MongoDB, Docker, AWS, React.js, TypeScript, Stencil.js.  
-- 🧠 **Strong in Core Java & DSA:** Actively solving problems on LeetCode to improve algorithmic thinking and optimization.  
-- ⚙️ **Full-Stack Capability:** Experienced in backend API design and frontend component-based UI development.  
-- 🌱 **Currently Exploring:** Microservices, TypeScript architecture patterns, and cloud-native application design.  
-- 🚀 **Goal:** To create scalable, efficient, and secure enterprise-grade web solutions that blend backend power with responsive UI.
+- 💻 **Software Development Engineer (SDE)** focused on designing and developing scalable web applications using **Java, Spring Boot, and modern frontend technologies**.  
+- 🚀 **Full Stack Expertise:** Hands-on with both **backend (Java, Spring Boot, Hibernate)** and **frontend (React.js, TypeScript, Stencil.js)**.  
+- 🧩 **Problem-Solving Enthusiast:** Solved **300+ LeetCode problems**, consistently sharpening algorithmic and data structure skills.  
+- ⚙️ **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, MongoDB, Docker, AWS, React.js, TypeScript, Stencil.js.  
+- 🌱 **Currently Exploring:** Microservices, scalable API design, and advanced TypeScript patterns.  
+- 🎯 **Goal:** To build performant, maintainable, and secure applications that deliver real business value.
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -57,53 +57,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-### 🛠️ Professional Experience
-
-**Software Engineer (SDE)** — *Current Role*  
-- Working on enterprise-grade web solutions using **Java, Spring Boot, TypeScript, React, and Stencil.js**.  
-- Designed reusable UI components with Stencil.js and integrated them with Spring Boot APIs.  
-- Improved backend scalability using Docker and optimized data communication via RESTful services.  
-
-**Software Developer Intern | AdaptNXT**  
-📍 *Bangalore | Dec 2024 – May 2025*  
-- Optimized backend functionality for the Arnetta Research Web App using Java and Spring Boot.  
-- Dockerized project deployment and enhanced application scalability.  
-- Refactored backend logic and improved API performance.  
-
-**Trainee Software Developer | Revature**  
-📍 *Pune | Jul 2024 – Nov 2024*  
-- Worked on Java Full Stack projects using JSP, Servlets, and Spring Boot.  
-- Collaborated on frontend integration with REST APIs and CI/CD pipelines.  
-
-**Java Full Stack Intern | Wipro TalentNext**  
-📍 *Remote | May 2023 – Sep 2023*  
-- Built Java-based web applications using Servlets, JSP, and Hibernate.  
-- Enhanced user interfaces using HTML, CSS, and JavaScript.
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-### 🚀 Projects
-
-#### 🤖 **AI-Based Git Commit & Merge Conflict Detection Tool**
-- Created an AI-powered commit generator with merge conflict detection using OpenAI models.  
-- Automated PR summaries stored on Google Docs for team collaboration.  
-🔗 [GitHub Repository](https://github.com/patil-pramod1/ai-git-commit-tool)
-
-#### 🛒 **E-Commerce Platform**
-- Developed using **Java, JSP, Servlets, Spring Boot, Hibernate**, and **MySQL**.  
-- Added RESTful APIs, microservices, and secure authentication modules.  
-🔗 [GitHub Repository](https://github.com/patil-pramod1/Projects)
-
-#### 🎓 **College Directory Application**
-- A platform for students, faculty, and administrators built using **Java and JSP**.  
-- Features include announcements, profile management, and communication tools.  
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
 <div align="center">
 <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-pramod1&" alt="pramodpatil" /></p>
 </div>
@@ -116,6 +69,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pramod-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:pramodp1605@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-<a href="https://leetcode.com/u/pramodSp/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+<a href="https://leetcode.com/u/Pramodp1605/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
 <a href="https://github.com/patil-pramod1"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>

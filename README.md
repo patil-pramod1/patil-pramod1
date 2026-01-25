@@ -1,72 +1,112 @@
+<!-- NETFLIX HERO BANNER -->
 <div align="center">
-  <img width="400" 
-       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="coding animation">
+  <img
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="100%"
+    height="220"
+    style="object-fit: cover;"
+    alt="software developer banner"
+  />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Pramod Patil</h1>
-<h3 align="center">A passionate Software Developer</h3>
-
----
-
-<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
-## 🙋‍♂️ About Me
-
-- 💻 **Software Development Engineer (SDE)** focused on building scalable backend systems using **Java & Spring Boot**
-- 🚀 **Full Stack Experience:**  
-  **Backend:** Java, Spring Boot, Hibernate, REST APIs  
-  **Frontend:** React.js, TypeScript, Stencil.js
-- 🧩 **Problem-Solving Enthusiast:** Solved **300+ LeetCode problems**
-- ⚙️ **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, MongoDB, Docker, AWS, React, TypeScript
-- 🌱 **Currently Exploring:** Microservices architecture & scalable system design
-- 🎯 **Goal:** Build secure, high-performance applications that solve real-world problems
-
----
-<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
-### 💻 Technical Skills
-
-#### 🧩 Languages & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%235C9F4A.svg?style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![StencilJS](https://img.shields.io/badge/stencil-%23000000.svg?style=for-the-badge&logo=stencil&logoColor=white)
-
-#### 🧠 Databases, Tools & Cloud
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=patil-pramod1&show_icons=true&theme=tokyonight" />
-  <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=patil-pramod1&theme=tokyonight" />
-</div>
-
----
-<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
-### 📬 Reach Me Out
+<h3 align="center">Software Developer </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pramod-dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="mailto:pramodp1605@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
-  <a href="https://leetcode.com/u/pramodSp/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/leetcode.png"/>
-  </a>
-  <a href="https://github.com/patil-pramod1" target="_blank">
-    <img src="https://img.icons8.com/color/48/github.png"/>
-  </a>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
+
+## 🙋‍♂️ About Me
+
+- 💻 **Software Developer** with strong backend fundamentals  
+- ☕ Hands-on with **Java & Spring Framework**
+- 🔐 Built secure applications using **Spring Security**
+- 🧠 Solved **300+ LeetCode problems**
+- ☁️ Experience with **AWS & Azure DevOps**
+- 🧩 Focused on **clean code, maintainability & scalability**
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+<!-- SUBTLE NETFLIX-STYLE MOTION -->
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
+    width="380"
+    alt="coding motion"
+  />
+</div>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+## 🧩 Core Technical Skills
+
+### ☕ Backend & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-E50914?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Framework-111111?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-E50914?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Security-E50914?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-111111?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-E50914?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-111111?style=for-the-badge&logo=azuredevops"/>
+  <img src="https://img.shields.io/badge/Docker-E50914?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-E50914?style=for-the-badge&logo=git"/>
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-E50914?style=for-the-badge&logo=mongodb"/>
+</p>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img
+    width="65%"
+    src="https://github-readme-stats.vercel.app/api?username=patil-pramod1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800"
+  />
+</div>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
+## 📬 Let’s Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pramod-dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:pramodp1605@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="52"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/pramodSp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/patil-pramod1" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+      width="52"
+      style="fill:white;"
+    />
+  </a>
+</div>
+

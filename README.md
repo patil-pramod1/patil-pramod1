@@ -9,6 +9,7 @@
 
 ---
 
+<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
 ## 🙋‍♂️ About Me
 
 - 💻 **Software Development Engineer (SDE)** focused on building scalable backend systems using **Java & Spring Boot**
@@ -21,7 +22,7 @@
 - 🎯 **Goal:** Build secure, high-performance applications that solve real-world problems
 
 ---
-
+<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
 ### 💻 Technical Skills
 
 #### 🧩 Languages & Frameworks
@@ -41,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
+<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -52,7 +53,7 @@
 </div>
 
 ---
-
+<p align="left"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> </p>
 ### 📬 Reach Me Out
 
 <p align="left">
